@@ -18,7 +18,7 @@ Therefore, we want to create a classifier that anyone can predict the rating.
 ## Architecture
 1. k-NN classification
 
-## Result - Train, Test Accuracy
+## Results
 1. k-NN classification  
   Train Accuracy : 95.6%  
   Test Accuracy : 92.5%
