@@ -7,7 +7,7 @@
 Although it has been in effect for a long time now, few people are well aware of what criteria the grades are divided by. 
 Therefore, we want to create a classifier that anyone can predict the rating.  
 
-| [Report](https://github.com/OH-Seoyoung/KNN_to_predict_Energy_Consumption_Efficiency_Rating/blob/master/Report.pdf) |  
+| [Report](https://github.com/standing-o/Prediction_of_Energy_Consumption_Efficiency_Rating/blob/master/Report.pdf) |  
 
 ## Dataset  
 #### Independent Variable  
