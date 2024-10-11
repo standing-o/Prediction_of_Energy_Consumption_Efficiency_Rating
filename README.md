@@ -1,5 +1,5 @@
-# KNN to predict Energy Consumption Efficiency Rating
-- k-NN Classification of Energy Consumption Efficiency Rating with max power consumption, CO2 emissions per hour, annual energy cost dataset
+# Prediction of Energy Consumption Efficiency Rating
+- k-NN Classification of Energy Consumption Efficiency Rating with max power consumption, CO2 emissions per hour, annual energy cost dataset.
 - Jun. 24, 2020
 
 ### Final project for the ' AI for Non-major' Course
